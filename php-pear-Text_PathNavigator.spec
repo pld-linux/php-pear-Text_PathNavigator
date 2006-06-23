@@ -30,7 +30,6 @@ In PEAR status of this package is: %{_status}.
 Klasa Text_PathNavigator umo¿liwia dostêp do elementów ¶cie¿ki
 ("/sciezka/do/elementu").
 
-
 Ta klasa ma w PEAR status: %{_status}.
 
 %prep

@@ -5,7 +5,7 @@
 %define		_pearname	Text_PathNavigator
 
 Summary:	%{_pearname} - Provides convenient access to path substrings
-Summary(pl):	%{_pearname} - Wygodny dostêp do elementów ¶cie¿ki
+Summary(pl.UTF-8):   %{_pearname} - Wygodny dostÄ™p do elementÃ³w Å›cieÅ¼ki
 Name:		php-pear-%{_pearname}
 Version:	0.1.0dev1
 Release:	1
@@ -26,8 +26,8 @@ The Text_PathNavigator class provides convenient access to
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
-Klasa Text_PathNavigator umo¿liwia dostêp do elementów ¶cie¿ki
+%description -l pl.UTF-8
+Klasa Text_PathNavigator umoÅ¼liwia dostÄ™p do elementÃ³w Å›cieÅ¼ki
 ("/sciezka/do/elementu").
 
 Ta klasa ma w PEAR status: %{_status}.

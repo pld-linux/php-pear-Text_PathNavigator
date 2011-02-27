@@ -4,7 +4,7 @@
 %define		_status		devel
 %define		_pearname	Text_PathNavigator
 %define		subver	dev2
-%define		rel		1
+%define		rel		2
 Summary:	%{_pearname} - Provides convenient access to path substrings
 Summary(pl.UTF-8):	%{_pearname} - Wygodny dostęp do elementów ścieżki
 Name:		php-pear-%{_pearname}

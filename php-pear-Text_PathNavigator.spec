@@ -1,16 +1,14 @@
-%define		status		devel
+%define		status		beta
 %define		pearname	Text_PathNavigator
-%define		subver		dev2
-%define		rel			3
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Provides convenient access to path substrings
 Summary(pl.UTF-8):	%{pearname} - Wygodny dostęp do elementów ścieżki
 Name:		php-pear-%{pearname}
-Version:	0.1.0
-Release:	0.%{subver}.%{rel}
+Version:	0.2.0
+Release:	1
 License:	MIT License
 Group:		Development/Languages/PHP
-Source0:	http://pear.php.net/get/%{pearname}-%{version}%{subver}.tgz
+Source0:	http://pear.php.net/get/%{pearname}-%{version}.tgz
 # Source0-md5:	ef4473eeb6787495e70f59f529464a42
 URL:		http://pear.php.net/package/Text_PathNavigator/
 BuildRequires:	php-pear-PEAR

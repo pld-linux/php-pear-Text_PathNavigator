@@ -9,7 +9,7 @@ Release:	1
 License:	MIT License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{pearname}-%{version}.tgz
-# Source0-md5:	ef4473eeb6787495e70f59f529464a42
+# Source0-md5:	2b208b2b9dfb8c4b450f4fbab0533929
 URL:		http://pear.php.net/package/Text_PathNavigator/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11

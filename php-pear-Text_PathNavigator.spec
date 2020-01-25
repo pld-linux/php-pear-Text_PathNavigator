@@ -1,6 +1,5 @@
 %define		status		beta
 %define		pearname	Text_PathNavigator
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Provides convenient access to path substrings
 Summary(pl.UTF-8):	%{pearname} - Wygodny dostęp do elementów ścieżki
 Name:		php-pear-%{pearname}

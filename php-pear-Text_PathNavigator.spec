@@ -4,7 +4,7 @@ Summary:	%{pearname} - Provides convenient access to path substrings
 Summary(pl.UTF-8):	%{pearname} - Wygodny dostęp do elementów ścieżki
 Name:		php-pear-%{pearname}
 Version:	0.2.0
-Release:	1
+Release:	2
 License:	MIT License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{pearname}-%{version}.tgz
